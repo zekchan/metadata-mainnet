@@ -11,12 +11,12 @@
 			"url": "https://staketab.com/"
 		},
 		{
-			"type": "x",
+			"type": "website",
 			"name": "X",
 			"url": "https://x.com/staketab"
 		},
 		{
-			"type": "discord",
+			"type": "website",
 			"name": "Discord",
 			"url": "https://discord.com/invite/UBQ85uSyAU"
 		}
