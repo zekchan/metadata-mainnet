@@ -9,6 +9,8 @@ jobs:
   generate:
     runs-on: ubuntu-24.04
     timeout-minutes: 5
+    permissions:
+      contents:  write
 
     steps:
       - name: Checkout
@@ -20,7 +22,7 @@ jobs:
           node-version: '22'
 
       - name: Install dependencies
-        run: npm install tsx
+        run: npm install tsx @actions/core @actions/github
 
       - name: Generate
         run: npx tsx .github/workflows/scripts/extract-metadata.ts
