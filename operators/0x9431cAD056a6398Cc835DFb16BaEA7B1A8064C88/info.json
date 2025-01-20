@@ -1,0 +1,39 @@
+{
+	"name": "01node",
+	"description": "High Quality PoS Institutional Blockchain Validation Infrastructure - Securely validatong one block at a time since 2019",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://01node.com/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/01node"
+		},
+                {
+                        "type": "website",
+                        "name": "Telegram",
+                        "url": "https://t.me/node01"
+                },
+                {
+                        "type": "website",
+                        "name": "Medium",
+                        "url": "https://medium.com/01node"
+                },
+                {
+                        "type": "website",
+                        "name": "Linkedin",
+                        "url": "https://linkedin.com/company/01node"
+                },
+                {
+                        "type": "website",
+                        "name": "Github",
+                        "url": "https://github.com/01node"
+                }
+	]
+}
