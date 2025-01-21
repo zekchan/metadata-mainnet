@@ -1,6 +1,6 @@
 {
     "name": "Node.Monster",
-    "description": "Node.Monster delivers high-performance, scalable, secure node operations across 20+ networks, including ether.fi, Mezo, Symbiotic, Eigen Layer, Subquery, Forta, Axelar, Stride, NEAR, and more. We are a trusted leader in blockchain infrastructure with over $450M in staking AUM and $500M+ in restaking AUM.",
+    "description": "Node.Monster delivers high-performance, scalable, secure node operations across 20+ networks, including ether.fi, Symbiotic, Axelar, Wallet Connect, Stride, NEAR, and more. We are a trusted leader in blockchain infrastructure with over $1B in staking and restaking AUM. Our robust infrastructure combines data centers and bare-metal servers in the Middle East with top-tier cloud providers in Europe and the US, ensuring decentralization and reliability. We are deeply engaged in governance, community building, and network development.",
     "tags": [
         "operator"
     ],
