@@ -30,6 +30,8 @@ Each entity is identified by its Ethereum address (`0x...`), and its data is sto
 
 ### **Steps to Add a New Entity**
 
+**Note: After your PR is submitted, email your PR link to verify@symbiotic.fi from your official business email (domain must match that of your entity website) to allow us to confirm your identity ahead of merging your PR.**
+
 1. **Determine the entity type**:
     - Decide whether the entity belongs to `vaults`, `networks`, `operators`, or `tokens`.
     - If the entity is a `vault`, please be sure that it's collateral token entity is registered in the `tokens` folder before adding the vault metadata. If not, please add the token first.
@@ -189,6 +191,7 @@ Your PR will be reviewed to ensure:
 - The `info.json` file has all required fields and valid data.
 - The `logo.png` file (if included) meets the requirements.
 - The metadata is accurate and well-structured.
+- The submitter of the PR is from the entity in question (verified via an email with your PR link to verify@symbiotic.fi from your official business email)
 
 After approval, your changes will be merged into the repository. Thank you for your contribution! 🎉
 
