@@ -9,6 +9,7 @@
     "links": [
         {
             "type": "externalLink",
+            "name": "deposit",
             "url": "https://www.ether.fi/"
         },
         {
