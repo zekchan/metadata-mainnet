@@ -2,7 +2,8 @@
 	"name": "Alchemy Validators",
 	"description": "Guaranteed availability and up-time backed by a professional blockchain infrastructure team.",
 	"tags": [
-		"operator"
+		"vault",
+		"token:wstETH"
 	],
 	"links": [
 		{
