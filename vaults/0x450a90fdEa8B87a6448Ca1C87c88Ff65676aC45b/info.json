@@ -8,6 +8,10 @@
     "curatorName": "Ether.fi",
     "links": [
         {
+            "type": "externalLink",
+            "url": "https://www.ether.fi/"
+        },
+        {
             "type": "explorer",
             "name": "Etherscan",
             "url": "https://etherscan.io/address/0x450a90fdEa8B87a6448Ca1C87c88Ff65676aC45b"
