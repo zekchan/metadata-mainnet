@@ -1,6 +1,6 @@
 {
     "name": "Gauntlet Restaked wstETH",
-    "description": "Gauntlet’s Restaked cbETH vault brings risk-adjusted restaking yields to cbETH depositors on Symbiotic. This vault seeks to allocate to as many networks as possible while applying a max-loss slash minimization approach. Gauntlet's expertise builds on more than a year as one of the most well-researched teams in restaking and risk-adjusted allocation strategies. Learn more about our Symbiotic Vault Strategy or Allocation Methodology in the links below.",
+    "description": "Gauntlet’s Restaked wstETH vault brings risk-adjusted restaking yields to wstETH depositors on Symbiotic. This vault seeks to allocate to as many networks as possible while applying a max-loss slash minimization approach. Gauntlet's expertise builds on more than a year as one of the most well-researched teams in restaking and risk-adjusted allocation strategies. Learn more about our Symbiotic Vault Strategy or Allocation Methodology in the links below.",
     "tags": ["vault", "wstETH"],
     "links": [
       {
