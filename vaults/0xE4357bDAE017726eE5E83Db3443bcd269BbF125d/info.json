@@ -1,0 +1,30 @@
+{
+    "description": "This vault curated by the iBTC Network secures the decentralized Attestor Layer responsible for issuing the iBTC token. iBTC is a safer wrapped Bitcoin that uses the Bitcoin Layer 1 network to natively secure deposits.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-sibtc"
+        },
+        {
+            "name": "Etherscan",
+            "type": "Explorer",
+            "url": "https://etherscan.io/address/0xE4357bDAE017726eE5E83Db3443bcd269BbF125d"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Staked iBTC",
+    "tags": [
+        "mellow",
+        "iBTC"
+    ]
+}
