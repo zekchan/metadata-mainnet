@@ -14,13 +14,18 @@
         {
             "name": "Etherscan",
             "type": "explorer",
-            "url": "https://etherscan.io/address/0xE4357bDAE017726eE5E83Db3443bcd269BbF125d"
+            "url": "https://etherscan.io/address/0xae052557Af0024514a916396c8Eb950Ad7D260dc"
         },
         {
             "name": "Documentation",
             "type": "docs",
             "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
-        }
+        },
+        {
+            "name": "Where to Get iBTC",
+            "type": "docs",
+            "url": "https://docs.ibtc.network/ibtc-documentation/getting-started/for-retail-traders#where-to-get-ibtc"
+            }
     ],
     "name": "Staked iBTC",
     "tags": [
