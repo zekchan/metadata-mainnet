@@ -12,7 +12,7 @@
             "url": "https://app.mellow.finance/vaults/ethereum-roeth"
         },
         {
-            "type": "Explorer",
+            "type": "explorer",
             "name": "Etherscan",
             "url": "https://etherscan.io/address/0x575d6DD4EA8636E08952Bd7f8AF977081754B1B7"
         },
