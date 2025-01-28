@@ -13,7 +13,7 @@
         },
         {
             "name": "Etherscan",
-            "type": "Explorer",
+            "type": "explorer",
             "url": "https://etherscan.io/address/0x08144D10f6Aaa152EA88a99072a659E339d6152f"
         },
         {
