@@ -24,6 +24,7 @@
       "url": "https://level-money.gitbook.io/docs/level-usd/architecture/restaking"
     }
   ],
+  "cmcId": "3408",
   "permitName": "Level Wrapped USDC",
   "permitVersion": "1"
 }
