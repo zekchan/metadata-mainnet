@@ -1,5 +1,5 @@
 {
-	"name": "Alchemy Validators",
+	"name": "BwareLabs",
 	"description": "Guaranteed availability and up-time backed by a professional blockchain infrastructure team.",
 	"tags": [
 		"operator"
@@ -8,37 +8,42 @@
 		{
 			"type": "website",
 			"name": "Website",
-			"url": "https://www.alchemy.com/"
+			"url": "https://bwarelabs.com/"
 		},
 		{
 			"type": "website",
 			"name": "X",
-			"url": "https://x.com/AlchemyPlatform"
+			"url": "https://x.com/BwareLabs"
 		},
                 {
                         "type": "website",
-                        "name": "Linkedin",
-                        "url": "https://www.linkedin.com/company/alchemyinc"
-                },
-                {
-                        "type": "website",
-                        "name": "Youtube",
-                        "url": "https://www.youtube.com/c/alchemyplatform"
+                        "name": "Telegram",
+                        "url": "https://t.me/bwareLabs"
                 },
                 {
                         "type": "website",
                         "name": "Discord",
-                        "url": "https://discord.com/invite/alchemyplatform"
+                        "url": "https://discord.com/invite/bwarelabs"
                 },
-		{
+                {
                         "type": "website",
-                        "name": "Substack",
-                        "url": "https://substack.com/@alchemysupercharged"
+                        "name": "Medium",
+                        "url": "https://medium.com/bware-labs"
                 },
-		{
+                {
                         "type": "website",
-                        "name": "Warpcast",
-                        "url": "https://warpcast.com/alchemyplatform"
+                        "name": "Linkedin",
+                        "url": "https://ro.linkedin.com/company/bwarelabs"
+                },
+                {
+                        "type": "website",
+                        "name": "Facebook",
+                        "url": "https://www.facebook.com/BwareLabs/"
+                },
+                {
+                        "type": "website",
+                        "name": "Github",
+                        "url": "https://github.com/bwarelabs"
                 }
 	]
 }
