@@ -1,0 +1,22 @@
+{
+  "name": "Hyve Committee-X pre-deposit",
+  "description": "Hyve Committee-X Pre-Deposit Vault is a vault that holds the pre-deposits for the Hyve Committee-X. The Hyve Committee-X will be a decentralized committee secured by wstETH and is responsible for the data availability of the Hyve network.",
+  "tags": ["vault", "data availability", "infrastructure", "hyve"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://hyve.xyz/"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/Hyve_DA"
+    },
+    {
+      "type": "website",
+      "name": "Discord",
+      "url": "https://discord.gg/hyveda"
+    }
+  ]
+}
