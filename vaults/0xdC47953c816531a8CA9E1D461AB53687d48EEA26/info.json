@@ -1,7 +1,7 @@
 {
-	"name": "MEV Capital lBTC Vault",
+	"name": "MEV Capital LBTC Vault",
 	"description": "A secure vault curated by MEV Capital",
-	"tags": ["vault", "MEV Capital", "lBTC"],
+	"tags": ["vault", "MEV Capital", "LBTC"],
 	"links": [
 		{
 			"type": "website",
