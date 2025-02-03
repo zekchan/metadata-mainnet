@@ -1,5 +1,5 @@
 {
-    "description": "Private Preconfirmation Vault by [blockscape](https://blockscape.network/)",
+    "description": "Private Primev Vault by [blockscape](https://blockscape.network/)",
     "links": [
         {
             "name": "Website",
@@ -7,9 +7,9 @@
             "url": "https://blockscape.network/"
         }
     ],
-    "name": "Blockscape Preconfirmation Vault",
+    "name": "Blockscape Primev Vault",
     "tags": [
         "blockscape",
-        "PriMev"
+        "Primev"
     ]
 }
