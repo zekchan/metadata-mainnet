@@ -1,6 +1,6 @@
 {
     "name": "Gauntlet x Swell swBTC Vault",
-    "description": "The Gauntlet x Swell wBTC vault bring risk-adjusted restaking yield to wBTC deposits in Symbiotic while serving as the underlying to Swell’s swBTC LRT. This vault seeks to allocate to as many networks as possible while applying a max-loss slash minimization approach. swBTC is a multi-strategy vault that optimally restakes wBTC into a mix of BTC restaking protocols for maximum risk adjusted yields.",
+    "description": "The Gauntlet x Swell wBTC vault brings risk-adjusted restaking yield to wBTC deposits in Symbiotic while serving as the underlying to Swell’s swBTC LRT. This vault seeks to allocate to as many networks as possible while applying a max-loss slash minimization approach. swBTC is a multi-strategy vault that optimally restakes wBTC into a mix of BTC restaking protocols for maximum risk adjusted yields.",
     "tags": ["vault", "wBTC", "swBTC"],
     "links": [
       {
